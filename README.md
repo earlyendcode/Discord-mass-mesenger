@@ -27,7 +27,7 @@ Run the script:
 
 1. Run the script.
 2. Enter the message text.
-3. Specify the delay between messages (recommended 5-10 sec).
+3. Specify the delay between messages (recommended 1-5 sec).
 4. The script will start processing and send messages to all friends.
 
 ## 🖥 Example Output
